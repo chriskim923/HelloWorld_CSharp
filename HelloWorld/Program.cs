@@ -2,7 +2,7 @@
 using System; // Allows me to directly use the System classes and methods without fully qualifying them.
 namespace HelloWorld
 {
-    class Hello
+    class Program
     {
         static void Main()
         {
